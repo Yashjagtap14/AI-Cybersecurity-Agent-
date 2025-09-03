@@ -1,4 +1,4 @@
-A AI-powered cybersecurity agent that analyzes the security of any website or social media profile link (Instagram, YouTube, etc.).
+An AI-powered cybersecurity agent that analyzes the security of any website or social media profile link (Instagram, YouTube, etc.).
 
 This agent checks for common vulnerabilities, assigns a security score out of 10, and provides actionable recommendations to protect your digital identity from cyberattacks.
 
